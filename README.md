@@ -27,7 +27,11 @@ frontend/    SPA React + Vite y tests del front
 4. Ejecutar el frontend en desarrollo con `npm run dev`.
 5. Ejecutar el backend desde `backend/` con `./mvnw spring-boot:run` (Windows: `mvnw.cmd spring-boot:run`).
 
-El backend sirve la versión compilada del frontend desde `backend/src/main/resources/static/`. Para actualizar esos archivos luego de modificar React, ejecutar `npm run build` en `frontend/` y copiar el contenido generado en `frontend/dist/` a `backend/src/main/resources/static/`.
+El backend sirve la versión compilada del frontend desde `backend/src/main/resources/static/`
+
+Para actualizar esos archivos luego de modificar React:
+
+Ejecutar `npm run build` en `frontend/` y copiar el contenido generado en `frontend/dist/`a `backend/src/main/resources/static/`.
 
 ## Pruebas
 
@@ -37,7 +41,7 @@ Frontend:
 cd frontend
 npm install
 npm test
-npm run build
+npm run build (y acá creamos la carpeta dist que copiamos su contenido)
 ```
 
 Backend:
