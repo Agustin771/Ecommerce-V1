@@ -1,0 +1,42 @@
+package com.agustin771.e_commerse.security.services;
+
+import com.agustin771.e_commerse.model.User;
+import com.agustin771.e_commerse.repository.UserRepository;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.security.core.userdetails.UserDetails;
+import org.springframework.security.core.userdetails.UserDetailsService;
+import org.springframework.security.core.userdetails.UsernameNotFoundException;
+import org.springframework.stereotype.Service;
+
+@Service
+public class UserDetailsServiceimpl implements UserDetailsService {
+
+    private static final Logger log =
+            LoggerFactory.getLogger(UserDetailsServiceimpl.class);
+
+    private final UserRepository userRepository;
+
+    public UserDetailsServiceimpl(UserRepository userRepository) {
+        this.userRepository = userRepository;
+    }
+
+    @Override
+    public UserDetails loadUserByUsername(String email) throws UsernameNotFoundException {
+
+        log.debug("Loading user details for authentication | email={}", email);
+
+        User user = userRepository.findByEmailIgnoreCase(email.trim())
+                .orElseThrow(() -> {
+                    log.warn("Authentication failed | reason=user not found");
+
+                    return new UsernameNotFoundException(
+                            "Email no encontrado"
+                    );
+                });
+
+        log.debug("User details loaded successfully | email={}", email);
+
+        return UserDetailsImpl.build(user);
+    }
+}
