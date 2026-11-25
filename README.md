@@ -1,11 +1,17 @@
 <p align="center">
-<img width="1317" height="600" alt="image" src="https://github.com/user-attachments/assets/5a6c01b2-066f-4195-a95c-db58be5bbfba" />
-<img width="424" height="102" alt="image" src="https://github.com/user-attachments/assets/a4d3d604-8f7f-4aef-a883-ff6db9729f36" />
-<img width="1303" height="623" alt="image" src="https://github.com/user-attachments/assets/6563f499-f047-415c-bea9-3354359ebaa0" />
-<img width="811" height="626" alt="image" src="https://github.com/user-attachments/assets/e957b5c4-086c-4dcb-9477-ad944955b924" />
-<img width="824" height="466" alt="image" src="https://github.com/user-attachments/assets/6df500a7-418c-448c-b708-3ea7a69a8f16" />
-<img width="903" height="632" alt="image" src="https://github.com/user-attachments/assets/9fff6855-7915-46a0-86d4-82e93fd72fe4" />
-<img width="891" height="508" alt="image" src="https://github.com/user-attachments/assets/e71f32e5-e8d1-4373-8d04-0f962c2a6365" />
+  <img src="https://github.com/user-attachments/assets/5a6c01b2-066f-4195-a95c-db58be5bbfba" width="800" alt="Captura 1" />
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/6563f499-f047-415c-bea9-3354359ebaa0" width="800" alt="Captura 2" />
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/e957b5c4-086c-4dcb-9477-ad944955b924" width="800" alt="Captura 3" />
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/6df500a7-418c-448c-b708-3ea7a69a8f16" width="800" alt="Captura 4" />
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/9fff6855-7915-46a0-86d4-82e93fd72fe4" width="800" alt="Captura 5" />
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/e71f32e5-e8d1-4373-8d04-0f962c2a6365" width="800" alt="Captura 6" />
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/a4d3d604-8f7f-4aef-a883-ff6db9729f36" width="424" alt="Captura 7" />
 </p>
 
 # Ecommerce Full Stack
