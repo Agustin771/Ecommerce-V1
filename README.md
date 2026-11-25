@@ -11,11 +11,11 @@
   <br><br>
   <img width="720" height="876" alt="2fff9dce-e4bb-451e-8b02-f78dcda9997c" src="https://github.com/user-attachments/assets/7a7134ee-4a7b-4fa1-b279-3535cc0cd224" />
   <br><br>
-  <img width="979" height="616" alt="image" src="https://github.com/user-attachments/assets/0b16a835-7540-46d0-b254-9c132be0c32d" />
-  <br><br>
   <img width="825" height="596" alt="image" src="https://github.com/user-attachments/assets/6385c6b1-0e7a-44b1-8a74-c425db7284a8" />
   <br><br>
   <img src="https://github.com/user-attachments/assets/6df500a7-418c-448c-b708-3ea7a69a8f16" width="800" alt="Captura 4" />
+  <br><br>
+  <img width="979" height="616" alt="image" src="https://github.com/user-attachments/assets/0b16a835-7540-46d0-b254-9c132be0c32d" />
   <br><br>
   <img src="https://github.com/user-attachments/assets/a4d3d604-8f7f-4aef-a883-ff6db9729f36" width="424" alt="Captura 7" />
   <br><br>
@@ -24,9 +24,6 @@
   <img src="https://github.com/user-attachments/assets/e71f32e5-e8d1-4373-8d04-0f962c2a6365" width="800" alt="Captura 6" />
   <br><br>
   <img src="https://github.com/user-attachments/assets/6563f499-f047-415c-bea9-3354359ebaa0" width="800" alt="Captura 2" />
-  <br><br>
-  <img width="371" height="571" alt="image" src="https://github.com/user-attachments/assets/bc186d99-102a-476e-8346-94fe0e4d34d4" />
-
 </p>
 
 # Ecommerce Full Stack
