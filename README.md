@@ -1,9 +1,11 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5a6c01b2-066f-4195-a95c-db58be5bbfba" width="800" alt="Captura 1" />
   <br><br>
-  <img src="https://github.com/user-attachments/assets/6563f499-f047-415c-bea9-3354359ebaa0" width="800" alt="Captura 2" />
+  <img width="1021" height="619" alt="image" src="https://github.com/user-attachments/assets/62e1c683-8d5c-44b2-9e8f-f674a9621bec" />
   <br><br>
-  <img src="https://github.com/user-attachments/assets/e957b5c4-086c-4dcb-9477-ad944955b924" width="800" alt="Captura 3" />
+  <img width="979" height="616" alt="image" src="https://github.com/user-attachments/assets/0b16a835-7540-46d0-b254-9c132be0c32d" />
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/6563f499-f047-415c-bea9-3354359ebaa0" width="800" alt="Captura 2" />
   <br><br>
   <img src="https://github.com/user-attachments/assets/6df500a7-418c-448c-b708-3ea7a69a8f16" width="800" alt="Captura 4" />
   <br><br>
