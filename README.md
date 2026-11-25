@@ -32,7 +32,7 @@ El backend sirve la versión compilada del frontend desde `backend/src/main/reso
 Para actualizar esos archivos luego de modificar React:
 
 Ejecutar `npm run build` en `frontend/` y copiar el contenido generado en `frontend/dist/`a `backend/src/main/resources/static/`.
-
+```
 ## Pruebas
 
 Frontend:
